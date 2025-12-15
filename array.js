@@ -1,0 +1,18 @@
+/******ARRAY *******/
+const arr1=["a","b","c","d","e","f"]
+const arr2=new Array(2,3,4,5,6,7)
+//console.log(arr[2])
+//console.log(arr.push(2))
+//console.log(arr.flat(Infinity))
+//console.log(arr.shift())
+//console.log(arr)
+//console.log(arr.unshift(3))
+//console.log(arr)
+//console.log(arr.slice(1,2))
+//console.log("slice result :", arr)
+//console.log(arr.splice(1,2))
+//console.log("Splice result :", arr)
+//const arr3=arr1.concat(arr2)
+//console.log(arr3)
+//console.log(...arr1,...arr2)
+console.log(Array.isArray(ar3))

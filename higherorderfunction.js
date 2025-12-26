@@ -41,3 +41,6 @@ console.log(calculate(radius,circumference))
      //example 
 console.log(radius.map(area))
 console.log(radius.map(circumference))
+
+
+//Another example of higher order function are map,filter &reduce//
